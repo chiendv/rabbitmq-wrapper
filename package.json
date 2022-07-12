@@ -1,0 +1,20 @@
+{
+  "name": "@chiendv/rabbitmq-wrapper",
+  "version": "0.1.0",
+  "description": "Wrapper to easier working with RabbitMQ",
+  "main": "lib/rabbitmq.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "rabbitmq"
+  ],
+  "dependencies": {
+    "amqplib": "^0.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Jamie Duong (duongvanchien@gmail.com)",
+  "license": "ISC"
+}
